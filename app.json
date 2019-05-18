@@ -24,6 +24,14 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.br.furb.escapefilas",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCF-4HJEeg4K0KJOEdMuqc5XiQkfM31M10"
+        }
+      }
     }
   }
 }
